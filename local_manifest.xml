@@ -54,11 +54,12 @@
       remote="github"
       revision="lineage-23.2" />
 
- <!-- dolby for moto -->
+<!-- dolby for moto -->
   <project
-    name="Evolution-X-Devices/hardware_dolby"
+    name="shipukacapri/hardware_dolby"
     path="hardware/dolby"
     remote="github"
-    revision="cnb" />
+    revision="bka" />
+
 
 </manifest>
